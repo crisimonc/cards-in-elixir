@@ -1,7 +1,6 @@
 # Cards
 
 Provides methods for creating and handling a deck of cards.
-Documentation can be found at <https://hexdocs.pm/cards>.
 
 ## Installation
 
